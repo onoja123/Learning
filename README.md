@@ -4,8 +4,13 @@
 <p> below are list of things i will be learning </p>
 <hr>
 Html
+<br>
 Css
+<br>
 Javascript
+<br>
 C++
+<br>
 Python
+<br>
 C
