@@ -1,0 +1,25 @@
+/* background CSS */
+*{
+Background-color: red;
+Background-image: URL("apple.jpg")
+Background-attachment: fixed;
+Background-repeat: repeat-x;
+Background-position: right top;
+}
+/* Borders in css */
+*{
+Border-style: solid;
+Border-style: dotted;
+Border-style: outset;
+Border-style: dashed;
+Border-style: groove;
+Border-style: double;
+}
+*{
+Margin-top: 10px;
+Margin-bottom: 20px;
+Margin-right: 40px;
+Margin-left: 30px:
+Margin: 20px 10px 20px 5px;
+Margin: 20px 0px 0px 20px
+}
