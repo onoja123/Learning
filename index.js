@@ -21,9 +21,11 @@ Alert ("you have deipisted"+ deposit )
 // If, else, else if, and elif statement
 var hot = false
 Var temp = 50
+
 if (temp> 50){
    Console.log("it is hot outside")
 }else if(temp <=80 && temp>=50{
    Console.log("it is average")
-}else if(temp > 50 && < 32)
+}else if(temp > 50 && < 32){
+   Console.log("it's pretty cold outside")
 }
