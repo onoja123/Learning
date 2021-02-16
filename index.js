@@ -3,6 +3,6 @@ Console.log("")
 //Conversion
 Var ibs = prompt ("weight in ibs"!)
 Var kg = ibs*0.42
-Alert("your"+ibs+"kilogram")
+Alert("This is:"+kg+"kilogram")
 //Writing js off heart
 var 
