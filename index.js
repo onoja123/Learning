@@ -18,3 +18,11 @@ Alert ("you have deipisted"+ deposit )
 2>=3
 3<=4
 2===3 && 3===2
+// If, else, else if, and elif statement
+var hot = false
+Var temp = 50
+if (temp> 50){
+   Console.log("it is hot outside")
+}else if{
+   Console.log("it is average")
+}
