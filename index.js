@@ -23,6 +23,7 @@ var hot = false
 Var temp = 50
 if (temp> 50){
    Console.log("it is hot outside")
-}else if{
+}else if(temp <=80 && temp>=50{
    Console.log("it is average")
+}else if(temp > 50 && < 32)
 }
