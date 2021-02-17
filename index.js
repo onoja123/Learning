@@ -29,3 +29,11 @@ if (temp> 50){
 }else if(temp > 50 && < 32){
    Console.log("it's pretty cold outside")
 }
+//While loop to print number from 1-10
+
+Var num = 1
+
+While (num < 11{
+  Console.log(num);
+num = NUM + 1
+}
