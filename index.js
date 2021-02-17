@@ -35,5 +35,5 @@ Var num = 1
 
 While (num < 11{
   Console.log(num);
-num = NUM + 1
+num = num + 1
 }
