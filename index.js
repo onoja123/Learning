@@ -53,3 +53,9 @@ num = num + 1
 For (var num=1; num< 5; num++{
 Console.log("number is " + num)
 }
+
+// For loop to print alphabet
+Var word = "ababababab
+for(var i=0; i<word.lenght; i++){
+ Console.log(word[i])
+}
