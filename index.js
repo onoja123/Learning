@@ -50,6 +50,6 @@ num = num + 1
 }
 
 //For loops
-For (var num=1;, num< 5, num++{
+For (var num=1; num< 5; num++{
 Console.log("number is " + num)
 }
