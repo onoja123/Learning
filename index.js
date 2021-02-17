@@ -37,3 +37,14 @@ While (num < 11{
   Console.log(num);
 num = num + 1
 }
+
+//Print even number 1-11
+
+Var num= 1
+
+While (NUM < 11){
+ if(num%2=== 0){
+ Console.log(num)
+}
+num = num + 1
+}
