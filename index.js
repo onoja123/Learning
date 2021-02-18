@@ -59,3 +59,5 @@ Var word = "ababababab
 for(var i=0; i<word.lenght; i++){
  Console.log(word[i])
 }
+
+//DOM(document object module 
