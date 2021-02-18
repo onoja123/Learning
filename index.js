@@ -61,3 +61,5 @@ for(var i=0; i<word.lenght; i++){
 }
 
 //DOM(document object module 
+document.getAllElemetsById()
+
