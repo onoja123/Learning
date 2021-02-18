@@ -12,8 +12,8 @@ Print("Onoja" is + age + "years old")
 Name = input ("what is your name: ")
 print(Name)
 #if statement
-x=2
-if 3>x:
+x=10
+if x > 2
 Print ("nice"):
 else:
 Print("we move")
