@@ -1,6 +1,6 @@
 #how to print using python
 Print("hello world")
-#simple calculation using python
+#simple maths calculation using python
 Print(2+3)
 x = 5
 y +=5
